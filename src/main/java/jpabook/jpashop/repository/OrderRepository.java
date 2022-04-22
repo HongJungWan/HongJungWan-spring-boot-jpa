@@ -69,7 +69,7 @@ public class OrderRepository {
     }
 
     /**
-     * JPA Criteria
+     * JPA Criteria, 김영한도 실무에서 안씀
      */
     public List<Order> findAllByCriteria(OrderSearch orderSearch) {
         CriteriaBuilder cb = em.getCriteriaBuilder();
