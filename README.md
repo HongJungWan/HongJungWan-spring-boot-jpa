@@ -32,7 +32,7 @@
 |[API 개발 고급 - 지연 로딩과 조회 성능 최적화](https://velog.io/@daydream/Spring-JPA-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%A7%80%EC%97%B0-%EB%A1%9C%EB%94%A9%EA%B3%BC-%EC%A1%B0%ED%9A%8C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94) <br/>|
 |[API 개발 고급 - 컬렉션 조회 최적화, ❶](https://velog.io/@daydream/Spring-JPA-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%A1%B0%ED%9A%8C-%EC%B5%9C%EC%A0%81%ED%99%94) <br/> |
 |[API 개발 고급 - 페이징과 한계 돌파](https://velog.io/@daydream/JPA-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%ED%8E%98%EC%9D%B4%EC%A7%95%EA%B3%BC-%ED%95%9C%EA%B3%84-%EB%8F%8C%ED%8C%8C) <br/>|
-
+|[API 개발 고급 - 컬렉션 조회 최적화 ❷](https://velog.io/@daydream/JPA-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%A1%B0%ED%9A%8C-%EC%B5%9C%EC%A0%81%ED%99%94) <br/>|
 
 <br><br>
 
