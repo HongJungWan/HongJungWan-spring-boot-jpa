@@ -92,7 +92,7 @@ public class OrderQueryRepository {
                 .getResultList();
 
         return orderItems.stream()
-                .collect(Collectors.groupingBy(OrderItemQueryDto::getOrderId));
+                .collect(Collectors.groupingBy(orderItemQueryDto -> orderItemQueryDto.getOrderId()));
     }
 
     public List<OrderFlatDto> findAllByDto_flat() {
