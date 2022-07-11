@@ -23,25 +23,28 @@
 <br>
 
 
-| 분류                                                | 링크                                                                                 |
-|---------------------------------------------------|------------------------------------------------------------------------------------|
-| JPA Part 1</span>     | [Entity 매핑](https://velog.io/@daydream/Spring-JPA-Entity-%EB%A7%A4%ED%95%91) <br/> | 
-| JPA Part 1</span>     | [Entity 연관 관계 매핑](https://velog.io/@daydream/Spring-JPA-Entity-%EC%97%B0%EA%B4%80-%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91) <br/>                                                                                                         |
-| JPA Part 1</span>     | [영속성 컨텍스트, 1차 캐시, 쓰기 지연](https://velog.io/@daydream/Spring-JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-1%EC%B0%A8-%EC%BA%90%EC%8B%9C-%EC%93%B0%EA%B8%B0-%EC%A7%80%EC%97%B0) <br/>                             |
-| JPA Part 1</span>     | [연관관계 편의 메서드](https://velog.io/@daydream/Spring-JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%ED%8E%B8%EC%9D%98-%EB%A9%94%EC%84%9C%EB%93%9C) <br/>                                                                                         |
-| JPA Part 1</span>     | [@Transactional(readOnly = true)](https://velog.io/@daydream/Spring-TransactionalreadOnly-true) <br/>                                                                                                                                  |
-| JPA Part 1</span>     | [Entity 설계 시 주의점](https://velog.io/@daydream/Spring-JPA-Entity-%EC%84%A4%EA%B3%84%EC%8B%9C-%EC%A3%BC%EC%9D%98%EC%A0%90) <br/>                                                                                                          |
-| JPA Part 1</span>     | [변경 감지와 병합(merge)](https://velog.io/@daydream/Spring-JPA-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80%EC%99%80-%EB%B3%91%ED%95%A9merge) <br/>                                                                                                 |
+| 분류                | 링크                                                                                                                                                                                                                                     |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| JPA Part 1</span> | [Entity 매핑](https://velog.io/@daydream/Spring-JPA-Entity-%EB%A7%A4%ED%95%91) <br/>                                                                                                                                                     | 
+| JPA Part 1</span> | [Entity 연관 관계 매핑](https://velog.io/@daydream/Spring-JPA-Entity-%EC%97%B0%EA%B4%80-%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91) <br/>                                                                                                         |
+| JPA Part 1</span> | [영속성 컨텍스트, 1차 캐시, 쓰기 지연](https://velog.io/@daydream/Spring-JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-1%EC%B0%A8-%EC%BA%90%EC%8B%9C-%EC%93%B0%EA%B8%B0-%EC%A7%80%EC%97%B0) <br/>                             |
+| JPA Part 1</span> | [연관관계 편의 메서드](https://velog.io/@daydream/Spring-JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%ED%8E%B8%EC%9D%98-%EB%A9%94%EC%84%9C%EB%93%9C) <br/>                                                                                         |
+| JPA Part 1</span> | [@Transactional(readOnly = true)](https://velog.io/@daydream/Spring-TransactionalreadOnly-true) <br/>                                                                                                                                  |
+| JPA Part 1</span> | [Entity 설계 시 주의점](https://velog.io/@daydream/Spring-JPA-Entity-%EC%84%A4%EA%B3%84%EC%8B%9C-%EC%A3%BC%EC%9D%98%EC%A0%90) <br/>                                                                                                          |
+| JPA Part 1</span> | [변경 감지와 병합(merge)](https://velog.io/@daydream/Spring-JPA-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80%EC%99%80-%EB%B3%91%ED%95%A9merge) <br/>                                                                                                 |
 |||
-| JPA Part 2</span>     | [API 개발 기본 (등록, 수정, 조회)](https://velog.io/@daydream/Spring-API-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EB%B3%B8-%EB%93%B1%EB%A1%9D-%EC%88%98%EC%A0%95-%EC%A1%B0%ED%9A%8C) <br/>                                                                   |
-| JPA Part 2</span>     | [API 개발 고급 - 지연 로딩과 조회 성능 최적화](https://velog.io/@daydream/Spring-JPA-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%A7%80%EC%97%B0-%EB%A1%9C%EB%94%A9%EA%B3%BC-%EC%A1%B0%ED%9A%8C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94) <br/> |
-| JPA Part 2</span>     | [API 개발 고급 - 컬렉션 조회 최적화, ❶](https://velog.io/@daydream/Spring-JPA-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%A1%B0%ED%9A%8C-%EC%B5%9C%EC%A0%81%ED%99%94) <br/>                                          |
-| JPA Part 2</span>     | [API 개발 고급 - 페이징과 한계 돌파](https://velog.io/@daydream/JPA-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%ED%8E%98%EC%9D%B4%EC%A7%95%EA%B3%BC-%ED%95%9C%EA%B3%84-%EB%8F%8C%ED%8C%8C) <br/>                                                    |
-| JPA Part 2</span>     | [API 개발 고급 - 컬렉션 조회 최적화 ❷](https://velog.io/@daydream/JPA-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%A1%B0%ED%9A%8C-%EC%B5%9C%EC%A0%81%ED%99%94) <br/>                                                  |
-| JPA Part 2</span>     | [API 개발 고급 정리](https://velog.io/@daydream/JPA-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%A0%95%EB%A6%AC) <br/>                                                                                                                      |
-| JPA Part 2</span>     | [OSIV와 성능 최적화](https://velog.io/@daydream/JPA-OSIV%EC%99%80-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94) <br/>                                                                                                                      |
+| JPA Part 2</span> | [API 개발 기본 (등록, 수정, 조회)](https://velog.io/@daydream/Spring-API-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EB%B3%B8-%EB%93%B1%EB%A1%9D-%EC%88%98%EC%A0%95-%EC%A1%B0%ED%9A%8C) <br/>                                                                   |
+| JPA Part 2</span> | [API 개발 고급 - 지연 로딩과 조회 성능 최적화](https://velog.io/@daydream/Spring-JPA-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%A7%80%EC%97%B0-%EB%A1%9C%EB%94%A9%EA%B3%BC-%EC%A1%B0%ED%9A%8C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94) <br/> |
+| JPA Part 2</span> | [API 개발 고급 - 컬렉션 조회 최적화, ❶](https://velog.io/@daydream/Spring-JPA-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%A1%B0%ED%9A%8C-%EC%B5%9C%EC%A0%81%ED%99%94) <br/>                                          |
+| JPA Part 2</span> | [API 개발 고급 - 페이징과 한계 돌파](https://velog.io/@daydream/JPA-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%ED%8E%98%EC%9D%B4%EC%A7%95%EA%B3%BC-%ED%95%9C%EA%B3%84-%EB%8F%8C%ED%8C%8C) <br/>                                                    |
+| JPA Part 2</span> | [API 개발 고급 - 컬렉션 조회 최적화 ❷](https://velog.io/@daydream/JPA-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%A1%B0%ED%9A%8C-%EC%B5%9C%EC%A0%81%ED%99%94) <br/>                                                  |
+| JPA Part 2</span> | [API 개발 고급 정리](https://velog.io/@daydream/JPA-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%A0%95%EB%A6%AC) <br/>                                                                                                                      |
+| JPA Part 2</span> | [OSIV와 성능 최적화](https://velog.io/@daydream/JPA-OSIV%EC%99%80-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94) <br/>                                                                                                                      |
 |||
-| Spring Data JPA ||
+| Spring Data JPA   | [공통 인터페이스 기능](https://velog.io/@daydream/JPA-Spring-Data-JPA-%EA%B3%B5%ED%86%B5-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EB%8A%A5) <br/>                                                                                |                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                     |
+|Spring Data JPA||
+|Spring Data JPA||
+
 
 <br><br>
 
