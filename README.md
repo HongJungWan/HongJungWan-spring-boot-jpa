@@ -42,9 +42,11 @@
 | JPA Part 2</span> | [OSIV와 성능 최적화](https://velog.io/@daydream/JPA-OSIV%EC%99%80-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94) <br/>                                                                                                                      |
 |||
 | Spring Data JPA   | [공통 인터페이스 기능](https://velog.io/@daydream/JPA-Spring-Data-JPA-%EA%B3%B5%ED%86%B5-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EB%8A%A5) <br/>                                                                                |                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                     |
-|Spring Data JPA| [Query method 기능 ①](https://velog.io/@daydream/JPA-Spring-Data-JPA-Query-method-%EA%B8%B0%EB%8A%A5)                                                                                                                                    |
-|Spring Data JPA| [Query method 기능 ②](https://velog.io/@daydream/JPA-Spring-Data-JPA-Query-method-%EA%B8%B0%EB%8A%A5-xazhu97j)                                                                                                                                                                                                                                   |
-
+| Spring Data JPA   | [Query method 기능 ①](https://velog.io/@daydream/JPA-Spring-Data-JPA-Query-method-%EA%B8%B0%EB%8A%A5)                                                                                                                                    |
+| Spring Data JPA   | [Query method 기능 ②](https://velog.io/@daydream/JPA-Spring-Data-JPA-Query-method-%EA%B8%B0%EB%8A%A5-xazhu97j)                                                                                                                           |
+| Spring Data JPA   | [순수 JPA 👉 Spring Data JPA 페이징, 정렬](https://velog.io/@daydream/JPA-Spring-Data-JPA-%EC%88%9C%EC%88%98-JPA-Spring-Data-JPA-%ED%8E%98%EC%9D%B4%EC%A7%95-%EC%A0%95%EB%A0%AC)                                                                                                                                                                                                                                   |
+| Spring Data JPA   ||
+| Spring Data JPA   ||
 
 <br><br>
 
